@@ -30,7 +30,7 @@ Seat reservation system developed with **NestJS**, **TypeORM**, and **PostgreSQL
 
 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/your-user/seat-booking.git
+git clone https://github.com/NicolasBe23/seat-booking.git
 cd seat-booking
 ```
 
