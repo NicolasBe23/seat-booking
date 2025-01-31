@@ -54,7 +54,7 @@ The server will be available at **http://localhost:3000**.
 
 ### **🔹 List Seats**
 ```http
-GET /seats
+GET /api/seats
 ```
 **Example Response:**
 ```json
@@ -68,7 +68,7 @@ GET /seats
 
 ### **🔹 Book Seats**
 ```http
-POST /seats
+POST /api/seats
 Content-Type: application/json
 ```
 **Request Body:**
